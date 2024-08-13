@@ -1,5 +1,7 @@
 # Auth Proxy
-Auth Proxy is an HTTP proxy that automatically adds the Authorization header to the request. It is useful for testing APIs that require authentication.
+Auth Proxy is an HTTP proxy that automatically adds the Authorization header to the request. It is useful for testing APIs that require authentication. 
+
+**PS: If you want to try this, please reach out to support@shuffler.io. It is Open Source, but currently in Beta in the [Nightly release of Shuffle](https://github.com/shuffle/shuffle)**
 
 <img width="1118" alt="image" src="https://github.com/user-attachments/assets/63c464a1-2236-45e2-b86f-c9cef0c8c8ff">
 
